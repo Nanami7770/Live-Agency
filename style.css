@@ -126,10 +126,10 @@ button:hover {
 
 .floating-btn {
     position: fixed;
-    bottom: 10px;        /* 下から20pxの位置 */
+    bottom: 25px;        /* 下から20pxの位置 */
     left: 50%;
     transform: translateX(-50%);
-    width: 180px;        /* お好みで調整してOK */
+    width: 200px;        /* お好みで調整してOK */
     z-index: 9999;       /* 最前面に表示 */
 }
 
